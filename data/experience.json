@@ -1,0 +1,32 @@
+[
+    {
+        "company": "Internship at CV. SARANA CIPTA MEDIA",
+		"logo":"images/polines-logo.png",
+        "position": "Process Engineer",
+        "year": "01 September - 31 Desember 2025",
+        "description": "As a Process Engineer at CV Sarana Cipta Media, I spearheaded the architectural design and structural construction of advanced programming wiring trainers. My primary responsibility involved developing robust engineering frameworks that met high technical standards for educational tools. Furthermore, I successfully organized and conducted professional technical training sessions utilizing these designed trainers. These impactful training programs were delivered to participants across various major regions in Indonesia, notably including Bali, Sulawesi, and Sumatra."
+    },
+	{
+        "company": "Freelance at CV ProjectKita",
+		"logo":"images/undip-logo.png",
+        "position": "Automation Engineer",
+        "year": "2024 - 2025",
+        "description": "During my tenure as a Freelance Automation Engineer at CV ProjectKita, I managed comprehensive electrical automation projects from conception to completion. My technical scope directly encompassed executing complex system wiring and designing professional-grade Printed Circuit Boards (PCBs). I consistently developed customized automated solutions that were specifically tailored to meet unique and demanding project requirements. Through rigorous planning and execution, I ensured that every delivered solution maintained the highest levels of operational efficiency and technical accuracy."
+    },
+  
+	{
+        "company": "SMK N 2 KENDAL",
+		"logo":"images/smk.jpg",
+        "position": "Guest Speaker",
+        "year": "14 February 2024",
+        "description": "I was honored to serve as a Guest Speaker for the Pancasila Student Profile Strengthening Project (P5), focusing on the theme Engineering and Technology to Build the Nation. In this educational role, I prepared and delivered comprehensive instructional materials centered on Arduino programming and the Internet of Things (IoT). I successfully engaged and educated students across four different classes during the 2024/2025 academic year. This experience allowed me to inspire the next generation of innovators by sharing practical technological insights and foundational engineering concepts."
+    },
+	{
+        "company": "Internship at PT. Panasonic Gobel Indonesia",
+		"logo":"images/panasonic.jpg",
+        "position": "Production Operator",
+        "year": "01 July - 31 September 2025",
+        "description": "As an Operator at PT. Panasonic Manufacturing Indonesia, I gained valuable firsthand experience in a fast-paced electronic mass-production environment. My core duty involved the precise assembly of intricate components onto various types of printed and ready-to-mount PCBs. I demonstrated strong attention to detail by consistently completing numerous assigned tasks strictly according to the provided technical instructions. Through high discipline and operational efficiency, I successfully met and sustained a rigorous daily production target of assembling 800 pieces."
+    }
+
+]

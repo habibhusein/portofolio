@@ -1,0 +1,34 @@
+{
+    "name": "Habib Husein Baydawi ()- Fresh Graduated Electrical Enggineering at Semarang State Polytechnic",
+    "description": "As an accomplished Electrical Engineering graduate from Semarang State Polytechnic, I dedicate my expertise to process engineering, hardware (PCB) design, and the development of integrated automation systems. I have actively demonstrated this dedication across high-performance industrial environments; from maintaining strict target efficiencies on the mass production lines at PT. Panasonic Manufacturing Indonesia, to designing customized automation solutions and national-scale system wiring alongside CV Sarana Cipta Media and CV ProjectKita. Equipped with this strong combination of technical accuracy and project management experience, my current career focus is fully directed toward driving engineering innovation and making a substantial contribution to the advanced technology manufacturing sector.",
+    "profileImage": "images/profile.jpg",
+    "email": "habibhusein414@gmail.com",
+    "phone": "+62 (882) 321-05865",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/habib-husein-baydawi-116045323"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/habibhusein"
+        }
+        
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Programming PLC", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Programming Microcontroller", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Internet Of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "3D/PCB Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Design Acrylic", "icon": "fas fa-d", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 60}
+    ]
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Trainer Programmable Logic Controller",
+        "year": "2025",
+        "partner": "Internship CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Designed acrylic products, including 3D modeling, and developed PLC programs.",
+        "image": "images/project1.jpg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Trainer PLC Aplikasi Sensor Suhu, Aliran, Tekanan, dan Level",
+        "year": "2025",
+        "partner": "Internship CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Designed acrylic products, including 3D modeling, and developed PLC programs.",
+        "image": "images/project2.jpg",
+        "link": "https://example.com/assembly-optimization"
+    },
+	{
+        "title": "TRAINER HMI SCADA TRAINING SYSTEM",
+        "year": "2025",
+        "partner": "Internship CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Designed acrylic products, including 3D modeling, and developed PLC programs.",
+        "image": "images/project3.jpg",
+        "link": "https://example.com/assembly-optimization"
+    },
+    {
+        "title": "Teaching Using Trainer Kit In Bali",
+        "year": "2025",
+        "partner": "Internship CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Taught technicall skills using a trainer kit in SMK N 1 Kuta Selatan for Teacher",
+        "image": "images/project4.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Teaching Using Trainer Kit In Sulawesi",
+        "year": "2025",
+        "partner": "Internship CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Taught technicall skills using a trainer kit in SMK N 7 Majene for Teacher",
+        "image": "images/project5.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Silver Medal Competition Indonesia International Invention Expo 2025",
+        "year": "2025",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Electrical Engineer",
+        "description": "PRIME: Post Stroke Rehabilitation and Integrated Monitoring Equipment An IOT-Based Smart Glove for Real-Time Monitoring of SpO2, Heart Rate, and Muscle Activity",
+        "image": "images/project6.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Trainer Water Level With Labview",
+        "year": "2025",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Lead Engineer",
+        "description": "Developed a Water Level System for a 4th-Semester Final Project Using Arduino and LabVIEW",
+        "image": "images/project7.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Parking Monitoring System",
+        "year": "2025",
+        "partner": "Freelance at CV ProjectKita",
+        "role": "Electrical Engineer",
+        "description": "Developed a electrical design for a parking Monitoring System.",
+        "image": "images/project8.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Early Warning System (EWS)",
+        "year": "2025",
+        "partner": "Freelance at CV ProjectKita",
+        "role": "Electrical Engineer",
+        "description": "Developed a electrical design for a Early Warning System (EWS)",
+        "image": "images/project9.jpg",
+        "link": "https://example.com/solar-water"
+	}
+]

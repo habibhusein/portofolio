@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Diploma III Electrical Engineering",
+        "year": "2023 - 2026",
+        "description": "GPA 3.93 of 4; Electrical Engineering student at Semarang State Polytechnic i achived 2nd place in the 2024 Electro Expo Robotic Transporter Competition and Top 16 in the FUTURA Transporter Robot Competition"
+    },
+    {
+        "university": "SMK N 2 KENDAL",
+		"logo": "images/smk.jpg",
+        "major": "Electrical Power Installation Engineering",
+        "year": "2011 - 2015",
+        "description": "GPA 84 of 100; Focused on Electrical Power Installation Engineering at SMK N 2 Kendal; gained practical hands-on experience through an internship at PT. Panasonic Manufacturing Indonesia"
+    }
+]
